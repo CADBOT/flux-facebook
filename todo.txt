@@ -1,0 +1,4 @@
+Add routing in
+replace hardcoded posts with ajax call/server
+find a way to putin waitfor
+add some extra styling
